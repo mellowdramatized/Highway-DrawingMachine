@@ -16,3 +16,5 @@ additional goals:
   picture recognition
     being able to take a picture of an object by a camera near the device that will recgonize any shapes/pictures and will draw them
   
+time spent so far 2 hours 48 minutes  
+total time spent  2 hours 48 minutes
